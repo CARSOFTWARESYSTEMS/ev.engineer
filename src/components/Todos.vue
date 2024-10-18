@@ -35,7 +35,7 @@ function createTodo() {
 
 <template>
   <main>
-    <h1>EV.Engineer</h1>
+    <h1>ev.engineer</h1>
 
     <div>
       We provide Software Solutions for Electric Vehicle Service Engineers
