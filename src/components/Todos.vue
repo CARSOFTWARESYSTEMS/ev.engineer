@@ -40,8 +40,8 @@ function createTodo() {
     <div>
       We provide Software Solutions for Electric Vehicle Service Engineers
       <br />
-      <a href="http://carsoftwaresystems.com/">
-        CAR Software Systems [.com]
+      <a href="https://www.youtube.com/channel/UCUek35x0ayCqt-hLOfYTkIg">
+        Krutarth S. Karkala
       </a>
     </div>
     
