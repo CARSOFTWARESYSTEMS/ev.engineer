@@ -41,7 +41,7 @@ function createTodo() {
       We provide Software Solutions for Electric Vehicle Service Engineers
       <br />
       <a href="https://www.youtube.com/channel/UCUek35x0ayCqt-hLOfYTkIg">
-        Krutarth S. Karkala
+        Krutarth S Karkala
       </a>
     </div>
     
